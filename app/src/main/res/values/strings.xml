@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="example">Example</string>
+    <string name="n0">0</string>
+    <string name="n1">0</string>
+    <string name="n2">0</string>
+    <string name="n3">0</string>
+    <string name="n4">0</string>
+    <string name="n5">0</string>
+    <string name="n6">0</string>
+    <string name="n7">0</string>
+    <string name="n8">0</string>
+    <string name="n9">0</string>
+</resources>
